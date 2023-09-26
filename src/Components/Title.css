@@ -1,0 +1,12 @@
+@keyframes slide-in-fwd-center{0%{transform:translateZ(-1400px);opacity:0}100%{transform:translateZ(0);opacity:1}}
+
+.title{
+    
+    
+    padding-top: 18%;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+
+.title{animation:slide-in-fwd-center 1s cubic-bezier(.25,.46,.45,.94) infinite both}
