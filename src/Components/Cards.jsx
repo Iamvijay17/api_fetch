@@ -52,7 +52,7 @@ function Cards() {
                               </i>
                             </a>
                             <a
-                              href="https://twitter.com/"
+                              href="#"
                               className="a2"
                             >
                               <i>
@@ -60,7 +60,7 @@ function Cards() {
                               </i>
                             </a>
                             <a
-                              href="https://in.pinterest.com/"
+                              href="#"
                               className="a3"
                             >
                               <i>
@@ -68,7 +68,7 @@ function Cards() {
                               </i>
                             </a>
                             <a
-                              href="https://www.instagram.com/"
+                              href="#"
                               className="a4"
                             >
                               <i>
